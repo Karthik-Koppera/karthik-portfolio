@@ -44,7 +44,7 @@ portfolio/
 
 ## 🔗 Live Demo
 
-👉 [View My Portfolio](https://karthik-koppera.github.io/my-portfolio/)
+👉 [View My Portfolio](https://karthik-koppera.github.io/karthik-portfolio/)
 
 ---
 
