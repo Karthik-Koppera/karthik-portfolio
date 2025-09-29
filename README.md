@@ -18,11 +18,11 @@ It showcases my skills, projects, and resume in a simple and responsive design.
 ## 📂 Project Structure
 
 portfolio/
-│── index.html # Main HTML file
-│── style.css # Styling file
-│── images/ # Profile photo & icons
-│── Koppera_Karthik_Resume.pdf # My resume (download link)
-│── README.md # Project documentation
+│── index.html
+│── style.css
+│── images
+│── Koppera_Karthik_Resume.pdf
+│── README.md
 
 ---
 
