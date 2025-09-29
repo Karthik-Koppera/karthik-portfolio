@@ -38,8 +38,7 @@ portfolio/
 
 ## 📸 Preview
 
-![Portfolio Preview](./images/preview.png)  
-_(Add a screenshot of your portfolio after deployment)_
+![Portfolio Preview](./images/preview.png)
 
 ---
 
